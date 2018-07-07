@@ -10,6 +10,6 @@ Descrição dos arquivos envolvidos no projeto.
 
 4 - Inception_Extrai_Feature.py - Extrai um vetor de características de uma imagem. Para isso é utilizado a arquitetura de aprendizagem profunda obtida pelo modelo inception (Google).
 
-5 - Visualizar_Imagem_CNN.ipynb - Visualiza as imagens ao percorrer o modelo de aprendizagem profunda
+5 - Visualizar_Imagem_CNN.ipynb - Visualiza as modificações que uma imagem  possui durante o processamento do  modelo de aprendizagem profunda
 .
 6 - extrai_frame.py - Processamento de vídeos.
